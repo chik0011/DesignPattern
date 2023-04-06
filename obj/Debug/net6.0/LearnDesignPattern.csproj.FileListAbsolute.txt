@@ -1,0 +1,15 @@
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\bin\Debug\net6.0\LearnDesignPattern.exe
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\bin\Debug\net6.0\LearnDesignPattern.deps.json
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\bin\Debug\net6.0\LearnDesignPattern.runtimeconfig.json
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\bin\Debug\net6.0\LearnDesignPattern.dll
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\bin\Debug\net6.0\LearnDesignPattern.pdb
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\obj\Debug\net6.0\LearnDesignPattern.csproj.AssemblyReference.cache
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\obj\Debug\net6.0\LearnDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\obj\Debug\net6.0\LearnDesignPattern.AssemblyInfoInputs.cache
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\obj\Debug\net6.0\LearnDesignPattern.AssemblyInfo.cs
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\obj\Debug\net6.0\LearnDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\obj\Debug\net6.0\LearnDesignPattern.dll
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\obj\Debug\net6.0\refint\LearnDesignPattern.dll
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\obj\Debug\net6.0\LearnDesignPattern.pdb
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\obj\Debug\net6.0\LearnDesignPattern.genruntimeconfig.cache
+C:\Users\chikhi\OneDrive\Bureau\LearnDesignPattern\obj\Debug\net6.0\ref\LearnDesignPattern.dll
